@@ -1,0 +1,24 @@
+{
+  "name": "zenn_docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mae-commits/zenn_docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mae-commits/zenn_docs/issues"
+  },
+  "homepage": "https://github.com/mae-commits/zenn_docs#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.158"
+  }
+}
